@@ -1,0 +1,10 @@
+# backend
+**/bin/
+**/obj/
+appsettings.*.json
+
+# frontend
+/node_modules/
+/dist/
+/env
+ 
