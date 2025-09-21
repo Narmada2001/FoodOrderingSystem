@@ -7,3 +7,4 @@ This project contains:
 ## Folder Structure
 - backend/FoodOrdering.Api → API project
 - client → React app
+
